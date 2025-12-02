@@ -26,3 +26,4 @@ selenium-login-automation/
 ├── requirements.txt     # Project dependencies (Selenium & WebDriver Manager)
 └── README.md            # Documentation and instructions
 
+
