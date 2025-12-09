@@ -6,7 +6,7 @@ It includes two automated test cases:
 
 - ✔ Valid login test
 - ❌ Invalid login test
-
+  
 ---
 
 ## 🛠️ Technologies Used
@@ -25,5 +25,6 @@ selenium-login-automation/
 ├── test_login.py        # Main automation script containing test cases
 ├── requirements.txt     # Project dependencies (Selenium & WebDriver Manager)
 └── README.md            # Documentation and instructions
+
 
 
